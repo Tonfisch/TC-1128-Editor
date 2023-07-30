@@ -9,7 +9,7 @@ Made with CTRLR (uses JUCE)
 
 ![TC_1128](https://github.com/Tonfisch/TC-1128-Editor/assets/115865850/ba6a3d25-8787-4251-9b70-8bd5fdd8126e)
   
-Works with Tc 1128 and 1128X, 12 dB and 16 dB Version. Not all options are tested (i don´t have timecode/pinknoise)
-
+Works with Tc 1128 and 1128X, 12 dB and 16 dB Version. Not all options are tested (i don´t have timecode/pinknoise)  
+There are still some bugs. If someone has the midi implementation for that device, please let me know. 
 ## License
 See [License](License.md)
