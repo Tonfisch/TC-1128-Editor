@@ -7,12 +7,10 @@ Use it on your own risc. I´m not responsible for anything!
 
 Made with CTRLR (uses JUCE)
 <img width="1694" height="1168" alt="grafik" src="https://github.com/user-attachments/assets/27dd38fe-fc08-46dd-a5e4-c60d7cb641d2" />
+
 <img width="1695" height="1172" alt="grafik" src="https://github.com/user-attachments/assets/a7f37bcc-ec8d-4f83-9bc3-22b1d21fbdc7" />
 
-![TC_1128](https://github.com/Tonfisch/TC-1128-Editor/assets/115865850/ba6a3d25-8787-4251-9b70-8bd5fdd8126e)
-![grafik](https://github.com/Tonfisch/TC-1128-Editor/assets/115865850/4409bedf-0843-4f6f-aae3-9851e1fd2225)
-![grafik](https://github.com/Tonfisch/TC-1128-Editor/assets/115865850/29e438c3-ccdf-41ed-905d-6e51272a45c7)
-![grafik](https://github.com/Tonfisch/TC-1128-Editor/assets/115865850/96625096-4865-43b8-bae3-9e4772fdfb47)
+<img width="1696" height="1169" alt="grafik" src="https://github.com/user-attachments/assets/2a0c8bea-17d8-4389-8e76-b5a81720cb70" />
   
 Works with Tc 1128 and 1128X, 12 dB and 16 dB Version. Not all options are tested (i don´t have timecode/pinknoise)  
 There are still some bugs. Please report bugs in Disussions or Issues. 
