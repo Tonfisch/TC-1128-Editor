@@ -6,6 +6,8 @@ First project with ctrlr and first programming at all.
 Use it on your own risc. I´m not responsible for anything!  
 
 Made with CTRLR (uses JUCE)
+<img width="1694" height="1168" alt="grafik" src="https://github.com/user-attachments/assets/27dd38fe-fc08-46dd-a5e4-c60d7cb641d2" />
+<img width="1695" height="1172" alt="grafik" src="https://github.com/user-attachments/assets/a7f37bcc-ec8d-4f83-9bc3-22b1d21fbdc7" />
 
 ![TC_1128](https://github.com/Tonfisch/TC-1128-Editor/assets/115865850/ba6a3d25-8787-4251-9b70-8bd5fdd8126e)
 ![grafik](https://github.com/Tonfisch/TC-1128-Editor/assets/115865850/4409bedf-0843-4f6f-aae3-9851e1fd2225)
