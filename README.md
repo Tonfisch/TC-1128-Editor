@@ -14,7 +14,6 @@ Made with CTRLR (uses JUCE)
   
 Works with Tc 1128 and 1128X, 12 dB and 16 dB Version. Not all options are tested (i don´t have timecode/pinknoise)  
 There are still some bugs.
--Store as selected is broken
 
 Please report bugs in Disussions or Issues. 
 ## License
